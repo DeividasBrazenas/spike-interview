@@ -1,0 +1,16 @@
+Summarize the call in json format, including the following fields. All of the fields are required.
+If information was not provided by the insurer, leave the field empty.
+They should be string values, because insurer may provide some additional details about each field.
+Write them in a way that would be easy to understand for a human and would follow official sentence structure.
+I need raw json object, without any additional text, markdown, or formatting.
+
+- ReferenceNumber
+- VisitLimit
+- VisitLimitStructure
+- VisitsUsed
+- Copay
+- Deductible
+- DeductibleMet
+- OutOfPocketMaximum
+- OutOfPocketMet
+- InitialAuthorizationRequired

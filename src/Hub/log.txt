@@ -1,0 +1,995 @@
+2025-07-05 19:06:21.733 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-05 19:06:21.781 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-05 19:06:21.782 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-05 19:06:21.791 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-05 19:06:21.792 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-05 19:06:21.792 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-05 19:06:21.959 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-05 19:07:18.100 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:07:18.103 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:07:19.720 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:07:39.630 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:07:39.633 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:07:40.855 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:07:58.703 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:07:58.705 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:07:59.680 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:08:35.003 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:08:35.008 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:08:36.411 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:08:50.109 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:08:50.111 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:08:51.067 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:09:02.464 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:09:02.467 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:09:03.308 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:09:16.468 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:09:16.471 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:09:17.606 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:09:29.262 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:09:29.264 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:09:30.943 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:09:44.991 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:09:44.995 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:09:45.967 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:10:00.548 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:10:00.552 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:10:01.584 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:10:12.501 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:10:12.506 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:10:13.778 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:10:25.617 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:10:25.622 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:10:26.529 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:10:49.224 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:10:49.226 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:10:50.246 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 19:11:08.248 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 19:11:08.252 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 19:11:09.196 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 20:39:47.449 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-05 20:39:47.475 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-05 20:39:47.476 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-05 20:39:47.483 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-05 20:39:47.484 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-05 20:39:47.484 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-05 20:39:47.594 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-05 20:40:30.142 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-05 20:40:30.167 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-05 20:40:30.168 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-05 20:40:30.173 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-05 20:40:30.175 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-05 20:40:30.176 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-05 20:40:30.199 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-05 20:42:15.932 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-05 20:42:15.966 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-05 20:42:15.968 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-05 20:42:15.974 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-05 20:42:15.975 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-05 20:42:15.976 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-05 20:42:16.069 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-05 20:43:36.888 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-05 20:43:36.920 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-05 20:43:36.922 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-05 20:43:36.928 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-05 20:43:36.929 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-05 20:43:36.930 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-05 20:43:36.949 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-05 20:43:51.641 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 20:43:51.642 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 20:43:52.903 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 20:44:13.854 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 20:44:13.855 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 20:44:15.135 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-05 20:44:34.728 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-05 20:44:34.729 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-05 20:44:36.022 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:28:21.408 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 01:28:21.439 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 01:28:21.442 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 01:28:21.448 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 01:28:21.448 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 01:28:21.449 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 01:28:21.474 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 01:28:45.948 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 01:28:45.972 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 01:28:45.972 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 01:28:45.977 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 01:28:45.977 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 01:28:45.978 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 01:28:45.998 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 01:30:51.843 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 01:30:51.872 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 01:30:51.874 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 01:30:51.879 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 01:30:51.879 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 01:30:51.880 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 01:30:51.898 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 01:34:23.305 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 01:34:23.331 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 01:34:23.333 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 01:34:23.338 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 01:34:23.339 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 01:34:23.340 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 01:34:23.359 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 01:35:38.035 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 01:35:38.060 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 01:35:38.061 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 01:35:38.067 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 01:35:38.068 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 01:35:38.068 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 01:35:38.086 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 01:35:59.231 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:35:59.233 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:36:00.552 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:36:19.878 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:36:19.878 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:36:20.766 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:36:34.514 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:36:34.515 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:36:35.441 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:36:47.482 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:36:47.483 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:36:48.585 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:36:58.318 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:36:58.319 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:36:59.369 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:37:17.016 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:37:17.017 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:37:18.263 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:37:37.146 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:37:37.147 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:37:38.032 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:37:48.935 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:37:48.936 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:37:49.901 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:38:06.430 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:38:06.431 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:38:07.715 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:38:30.995 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:38:30.995 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:38:32.083 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:38:42.814 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:38:42.814 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:38:43.649 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:38:58.777 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:38:58.777 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:38:59.822 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:39:24.163 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:39:24.165 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:39:25.179 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 01:39:33.662 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 01:39:33.663 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 01:39:34.480 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:07:42.179 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 02:07:42.205 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 02:07:42.207 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 02:07:42.211 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 02:07:42.212 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 02:07:42.213 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 02:07:42.237 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 02:08:11.434 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:08:11.436 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:08:12.730 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:08:37.339 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:08:37.340 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:08:38.234 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:08:53.432 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:08:53.433 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:08:54.523 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:09:06.801 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:09:06.801 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:09:07.850 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:13:10.815 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 02:13:10.842 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 02:13:10.843 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 02:13:10.850 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 02:13:10.850 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 02:13:10.851 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 02:13:10.879 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 02:13:21.930 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:13:21.931 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:13:23.282 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:13:55.638 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:13:55.639 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:13:56.504 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:14:18.155 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:14:18.156 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:14:19.607 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:14:28.287 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:14:28.288 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:14:28.963 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:14:39.275 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:14:39.276 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:14:40.411 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:14:51.694 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:14:51.695 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:14:52.731 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:15:10.231 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:15:10.232 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:15:11.199 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:15:21.675 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:15:21.676 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:15:22.532 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:15:37.954 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:15:37.954 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:15:38.958 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:16:07.392 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:16:07.393 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:16:08.247 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 02:16:16.209 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 02:16:16.210 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 02:16:16.845 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 10:44:40.375 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 10:44:40.406 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 10:44:40.407 [Warning] DeepgramHttpClientOptions: No authentication credentials found in parameters or environment variables
+2025-07-06 10:44:40.408 [Error] DeepgramHttpClientOptions: Deepgram authentication is required. Please provide either an API Key or Access Token.
+2025-07-06 10:45:09.563 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 10:45:09.591 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 10:45:09.592 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 10:45:09.598 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 10:45:09.598 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 10:45:09.599 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 10:45:09.624 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 11:26:09.613 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 11:26:09.638 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 11:26:09.639 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 11:26:09.644 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 11:26:09.645 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 11:26:09.646 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 11:26:09.667 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 11:26:19.477 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 11:26:19.478 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 11:26:20.599 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 11:26:38.948 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 11:26:38.949 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 11:26:39.654 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 11:26:49.752 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 11:26:49.776 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 11:26:49.776 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 11:26:49.785 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 11:26:49.787 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 11:26:49.787 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 11:26:49.807 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 11:26:58.143 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 11:26:58.144 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 11:26:59.402 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:07:10.984 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:07:11.014 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:07:11.016 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:07:11.023 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:07:11.024 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:07:11.025 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:07:11.064 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:08:32.250 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:08:32.276 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:08:32.277 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:08:32.282 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:08:32.283 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:08:32.284 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:08:32.305 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:08:41.489 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:08:41.490 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:08:42.797 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:13:32.333 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:13:32.361 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:13:32.362 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:13:32.368 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:13:32.368 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:13:32.369 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:13:32.388 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:13:50.314 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:13:50.315 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:13:51.679 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:15:33.112 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:15:33.137 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:15:33.139 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:15:33.145 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:15:33.146 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:15:33.146 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:15:33.165 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:15:42.851 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:15:42.852 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:15:44.175 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:15:59.195 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:15:59.196 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:18:08.621 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:18:08.647 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:18:08.648 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:18:08.654 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:18:08.655 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:18:08.655 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:18:08.675 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:18:58.713 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:18:58.747 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:18:58.748 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:18:58.754 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:18:58.755 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:18:58.755 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:18:58.778 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:19:09.605 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:19:09.606 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:19:10.683 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:19:11.927 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:19:11.928 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:19:12.240 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:19:13.611 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:19:13.613 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:19:13.858 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:19:16.344 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:19:16.345 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:19:16.696 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:22:18.474 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:22:18.504 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:22:18.505 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:22:18.512 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:22:18.513 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:22:18.513 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:22:18.541 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:23:13.443 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:23:13.494 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:23:13.495 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:23:13.502 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:23:13.503 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:23:13.504 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:23:13.530 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:24:45.090 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:24:45.116 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:24:45.117 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:24:45.122 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:24:45.123 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:24:45.123 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:24:45.144 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:25:24.302 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:25:24.330 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:25:24.331 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:25:24.337 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:25:24.338 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:25:24.339 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:25:24.361 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:26:20.272 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:26:20.297 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:26:20.297 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:26:20.303 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:26:20.303 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:26:20.304 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:26:20.323 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:29:22.122 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:29:22.150 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:29:22.151 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:29:22.156 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:29:22.157 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:29:22.157 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:29:22.183 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:34:24.868 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:34:24.892 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:34:24.893 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:34:24.898 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:34:24.899 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:34:24.899 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:34:24.918 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:36:17.963 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:36:17.993 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:36:17.994 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:36:18.000 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:36:18.000 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:36:18.001 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:36:18.020 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:38:58.924 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:38:58.948 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:38:58.950 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:38:58.956 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:38:58.956 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:38:58.957 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:38:58.975 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:44:53.191 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:44:53.219 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:44:53.220 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:44:53.226 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:44:53.227 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:44:53.227 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:44:53.249 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:45:24.286 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:45:24.287 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:45:25.390 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:47:13.923 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:47:13.924 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:47:14.972 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:48:28.500 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:48:28.502 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:48:29.545 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:48:41.125 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:48:41.126 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:48:41.820 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:48:47.332 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:48:47.333 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:48:48.180 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:49:02.267 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:49:02.268 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:49:03.135 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:49:17.701 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:49:17.702 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:49:18.573 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:49:24.394 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:49:24.395 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:49:25.069 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:49:27.913 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:49:27.914 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:49:28.329 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:50:25.811 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:50:25.812 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:50:26.853 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:50:36.750 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:50:36.751 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:50:37.623 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:51:05.740 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:51:05.741 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:51:06.813 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:52:14.883 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:52:14.883 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:52:15.961 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:52:31.125 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:52:31.126 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:53:12.592 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 13:53:12.615 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 13:53:12.616 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 13:53:12.621 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 13:53:12.622 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 13:53:12.622 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 13:53:12.644 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 13:53:21.188 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:53:21.190 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:53:22.124 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:56:46.887 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:56:46.889 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:56:47.751 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:56:56.478 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:56:56.480 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:56:57.112 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:57:03.279 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:57:03.280 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:57:04.122 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:57:09.215 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:57:09.218 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:57:10.397 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:57:17.697 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:57:17.699 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:57:18.608 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:57:25.885 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:57:25.887 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:57:26.778 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:58:26.775 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:58:26.776 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:58:27.647 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:58:39.573 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:58:39.574 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:58:40.308 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:59:19.286 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:59:19.287 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:59:20.890 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:59:34.244 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:59:34.245 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 13:59:35.306 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 13:59:59.373 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 13:59:59.375 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:00:00.399 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:00:17.900 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:00:17.902 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:00:19.153 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:00:35.173 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:00:35.174 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:00:36.458 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:01:47.512 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:01:47.538 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:01:47.538 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:01:47.544 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:01:47.544 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:01:47.545 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:01:47.563 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:01:58.893 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:01:58.895 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:02:00.173 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:02:19.888 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:02:19.889 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:02:20.924 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:02:29.989 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:02:29.989 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:02:31.198 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:04:03.914 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:04:03.939 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:04:03.940 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:04:03.945 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:04:03.946 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:04:03.946 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:04:03.967 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:04:14.198 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:04:14.223 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:04:14.224 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:04:14.230 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:04:14.230 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:04:14.231 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:04:14.248 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:16:30.039 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:16:30.064 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:16:30.066 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:16:30.072 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:16:30.072 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:16:30.073 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:16:30.093 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:17:17.945 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:17:17.970 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:17:17.972 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:17:17.977 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:17:17.977 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:17:17.978 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:17:17.997 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:17:29.433 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:17:29.434 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:19:15.661 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:19:15.686 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:19:15.688 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:19:15.694 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:19:15.695 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:19:15.695 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:19:15.714 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:24:17.420 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:24:17.444 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:24:17.445 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:24:17.450 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:24:17.450 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:24:17.451 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:24:17.473 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:27:17.595 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:27:17.622 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:27:17.624 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:27:17.632 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:27:17.634 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:27:17.635 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:27:17.657 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:34:51.763 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:34:51.789 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:34:51.790 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:34:51.796 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:34:51.797 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:34:51.797 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:34:51.819 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:38:01.719 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:38:01.748 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:38:01.750 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:38:01.755 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:38:01.756 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:38:01.756 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:38:01.779 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:38:15.974 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:38:15.975 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:38:17.057 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:38:28.162 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:38:28.163 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:47:26.199 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:47:26.225 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:47:26.227 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:47:26.233 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:47:26.234 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:47:26.234 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:47:26.255 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:51:07.388 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:51:07.413 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:51:07.415 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:51:07.421 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:51:07.422 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:51:07.422 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:51:07.443 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:52:19.435 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:52:19.461 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:52:19.462 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:52:19.468 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:52:19.468 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:52:19.469 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:52:19.487 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:52:39.502 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:52:39.527 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:52:39.529 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:52:39.535 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:52:39.536 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:52:39.537 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:52:39.558 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:53:37.967 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:53:37.991 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:53:37.993 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:53:37.997 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:53:37.998 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:53:37.998 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:53:38.018 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:57:39.439 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:57:39.475 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:57:39.476 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:57:39.483 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:57:39.485 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:57:39.485 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:57:39.508 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 14:58:05.906 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:58:05.908 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:58:07.195 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:58:34.805 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 14:58:34.806 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 14:58:35.840 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 14:59:46.978 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 14:59:47.007 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 14:59:47.008 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 14:59:47.013 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 14:59:47.014 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 14:59:47.014 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 14:59:47.034 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:18:34.273 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:18:34.298 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:18:34.298 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:18:34.304 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:18:34.305 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:18:34.305 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:18:34.323 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:19:28.483 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:19:28.507 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:19:28.508 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:19:28.515 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:19:28.515 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:19:28.516 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:19:28.544 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:20:56.419 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:20:56.444 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:20:56.444 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:20:56.449 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:20:56.451 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:20:56.451 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:20:56.471 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:21:03.752 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:21:03.754 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:21:05.378 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:21:20.529 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:21:20.530 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:21:21.258 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:22:02.817 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:22:02.819 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:22:03.854 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:33:37.936 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:33:37.964 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:33:37.965 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:33:37.972 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:33:37.973 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:33:37.974 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:33:37.995 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:34:25.354 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:34:25.379 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:34:25.380 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:34:25.385 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:34:25.386 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:34:25.386 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:34:25.405 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:34:50.930 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:34:50.958 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:34:50.960 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:34:50.966 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:34:50.967 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:34:50.967 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:34:50.986 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:35:36.035 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:35:36.061 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:35:36.062 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:35:36.068 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:35:36.068 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:35:36.069 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:35:36.090 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:36:35.137 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:36:35.138 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:36:36.435 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:38:17.809 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:38:17.810 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:38:18.899 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:38:31.172 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:38:31.173 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:38:32.056 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:40:40.070 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:40:40.097 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:40:40.098 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:40:40.103 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:40:40.104 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:40:40.104 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:40:40.124 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:40:45.875 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:40:45.877 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:40:47.296 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:41:09.456 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:41:09.457 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:41:10.560 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:41:24.061 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:41:24.062 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:41:25.121 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:41:39.843 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:41:39.844 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:41:40.917 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:42:04.853 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:42:04.854 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:42:06.060 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:42:22.458 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:42:22.459 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:42:23.124 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:42:33.495 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:42:33.496 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:42:34.350 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:42:46.870 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:42:46.871 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:42:47.915 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:43:02.983 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:43:02.984 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:43:04.047 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:43:21.455 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:43:21.456 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:43:22.767 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:43:34.300 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:43:34.301 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:43:35.164 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:43:45.943 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:43:45.944 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:43:47.144 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:44:07.961 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:44:07.962 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:44:09.201 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:44:27.056 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:44:27.056 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:44:27.876 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:48:02.961 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:48:02.987 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:48:02.989 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:48:02.994 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:48:02.995 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:48:02.995 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:48:03.015 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:48:37.904 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:48:37.930 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:48:37.931 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:48:37.936 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:48:37.937 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:48:37.938 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:48:37.958 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:48:57.481 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:48:57.482 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:48:58.534 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:49:16.183 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:49:16.184 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:49:17.252 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:49:39.589 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:49:39.590 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:49:40.828 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:49:54.716 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:49:54.717 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:49:55.594 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:50:10.138 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:50:10.138 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:50:11.177 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:50:25.498 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:50:25.498 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:50:26.414 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:50:39.321 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:50:39.322 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:50:40.197 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:50:56.138 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:50:56.138 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:50:56.992 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:51:17.728 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:51:17.729 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:51:19.050 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:51:34.605 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:51:34.606 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:51:35.324 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:51:54.155 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:51:54.156 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:51:55.263 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:52:10.622 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:52:10.623 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:52:11.646 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:52:19.390 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:52:19.391 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:52:20.183 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:54:01.620 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:54:01.646 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:54:01.648 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:54:01.654 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:54:01.655 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:54:01.655 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:54:01.675 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:54:29.192 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:54:29.193 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:54:30.595 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 15:56:40.168 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 15:56:40.204 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 15:56:40.205 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 15:56:40.213 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 15:56:40.214 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 15:56:40.215 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 15:56:40.239 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 15:56:52.024 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 15:56:52.025 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 15:56:53.093 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 16:01:20.870 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 16:01:20.895 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 16:01:20.896 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 16:01:20.901 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 16:01:20.902 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 16:01:20.903 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 16:01:20.922 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 16:02:24.476 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 16:02:24.501 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 16:02:24.503 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 16:02:24.510 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 16:02:24.512 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 16:02:24.512 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 16:02:24.539 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 16:31:39.839 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 16:31:39.872 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 16:31:39.873 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 16:31:39.879 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 16:31:39.880 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 16:31:39.880 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 16:31:39.908 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 16:32:10.557 [Information] DeepgramHttpClientOptions: OnPrem: False
+2025-07-06 16:32:10.586 [Information] DeepgramHttpClientOptions: APIVersion: v1
+2025-07-06 16:32:10.588 [Information] DeepgramHttpClientOptions: API KEY set from environment variable
+2025-07-06 16:32:10.593 [Information] DeepgramHttpClientOptions: REST BaseAddress does not contain API version: api.deepgram.com
+2025-07-06 16:32:10.595 [Information] DeepgramHttpClientOptions: BaseAddress contains no protocol: api.deepgram.com/v1
+2025-07-06 16:32:10.595 [Information] DeepgramHttpClientOptions: BaseAddress: https://api.deepgram.com/v1
+2025-07-06 16:32:10.622 [Information] HttpClientFactory.Create: HttpClient ID: DEEPGRAM_HTTP_CLIENT
+2025-07-06 16:33:08.704 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:08.704 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:10.094 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 16:33:15.260 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:15.261 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:16.284 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 16:33:19.425 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:19.426 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:19.684 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 16:33:23.123 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:23.124 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:23.382 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 16:33:28.639 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:28.640 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:28.811 [Information] PostAsync<R, S, T>: Task was cancelled.
+2025-07-06 16:33:34.415 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:34.415 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:36.330 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded
+2025-07-06 16:33:54.426 [Information] TranscribeFile: source: System.IO.MemoryStream
+2025-07-06 16:33:54.426 [Information] TranscribeFile: prerecordedSchema:
+
+2025-07-06 16:33:55.278 [Information] TranscribeFile: https://api.deepgram.com/v1/listen Succeeded

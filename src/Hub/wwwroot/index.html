@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Spike Clinical Voice Assistant</title>
+    <link rel="stylesheet" href="style.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.7/signalr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@microsoft/signalr-protocol-msgpack@8.0.7/dist/browser/signalr-protocol-msgpack.min.js"></script>
+</head>
+<body>
+<h2>Spike Clinical Voice Assistant</h2>
+
+<form id="inputForm">
+    <label>First Name: <input type="text" id="firstName" value="Robot"/></label>
+    <label>Last Name: <input type="text" id="lastName" value="Funky"/></label>
+    <label>Date of Birth: <input type="date" id="dob" value="1985-01-01"/></label>
+    <label>Member ID: <input type="text" id="memberId" value="MOY93832338"/></label>
+    <label>Insurance Active As Of: <input type="datetime-local" id="activeDate"/></label>
+    <label>Treatment Date: <input type="datetime-local" id="treatmentDate"/></label>
+    <label for="voiceSelect">Assistant's voice:<select id="voiceSelect"></select></label>
+</form>
+
+
+<div class="button-group">
+    <button id="startCallBtn">📞 Start Call</button>
+    <button id="endCallBtn" disabled>🔚 End Call</button>
+</div>
+
+<div id="statusContainer">
+    <span id="statusIcon">⏳</span>
+    <span id="statusText">Waiting to start...</span>
+</div>
+
+<audio id="player" controls autoplay></audio>
+
+<h3>📋 Call Summary</h3>
+<table id="summaryTable" style="display:none">
+    <tbody>
+    <tr>
+        <th>Reference Number</th>
+        <td id="refNum"></td>
+    </tr>
+    <tr>
+        <th>Visit Limit</th>
+        <td id="visitLimit"></td>
+    </tr>
+    <tr>
+        <th>Visit Limit Structure</th>
+        <td id="visitLimitStructure"></td>
+    </tr>
+    <tr>
+        <th>Visits Used</th>
+        <td id="visitsUsed"></td>
+    </tr>
+    <tr>
+        <th>Copay</th>
+        <td id="copay"></td>
+    </tr>
+    <tr>
+        <th>Deductible</th>
+        <td id="deductible"></td>
+    </tr>
+    <tr>
+        <th>Deductible Met</th>
+        <td id="deductibleMet"></td>
+    </tr>
+    <tr>
+        <th>Out-of-Pocket Maximum</th>
+        <td id="oopMax"></td>
+    </tr>
+    <tr>
+        <th>Out-of-Pocket Met</th>
+        <td id="oopMet"></td>
+    </tr>
+    <tr>
+        <th>Pre-Authorization Required</th>
+        <td id="authRequired"></td>
+    </tr>
+    </tbody>
+</table>
+
+<script src="ui.js"></script>
+<script src="mic.js"></script>
+<script src="signalr.js"></script>
+<script src="voices.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
